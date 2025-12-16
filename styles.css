@@ -4,7 +4,8 @@ body {
     margin: 0;
 }
 .tudo {
-    width: 1000px;
+    max-width: 1000px; 
+    width: 90%;
     background-color: white;
     margin: 0 auto;
 }
@@ -14,8 +15,9 @@ body {
     padding: 20px;
     text-align: center;
 }
+/* retirado o estilo ruim de contraste para permitir leitura seguindo AA */
 .texto-ruim {
-    color: #d1d1d1;
+    color: #555;
 }
 .botoes {
     padding: 50px;
@@ -31,6 +33,11 @@ body {
 
 #rodape{
     padding: 20px; 
-    background: red; 
+    background: #B30000; 
     color: white;
+}
+
+#servicosDiv{
+    padding: 40px; 
+    text-align: center;
 }
