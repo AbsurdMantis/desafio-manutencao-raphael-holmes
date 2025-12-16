@@ -16,9 +16,6 @@ Você deve refatorar (melhorar) este código seguindo os requisitos do documento
 4. **Acessibilidade:** Melhore o contraste das cores e adicione descrições (`alt`) nas imagens.
 5. **Interatividade:** O JavaScript atual está misturado no HTML. Mude para usar `addEventListener` no arquivo externo.
 
-## 🚀 Como começar
-1. Baixe o arquivo `index.html` deste repositório.
-2. Abra no seu VS Code.
-3. Comece a separar os arquivos e aplicar as melhorias!
+Link para o trello: https://trello.com/invite/b/6941a548f8bca8b92b0b9433/ATTI5fab97a2447b8e97152ccb006ce149ce7095B54F/planejamento-simulador-2
 
 Boa sorte! 🚀
